@@ -1,0 +1,156 @@
+/*--------------------------------------------------------------
+# Footer
+--------------------------------------------------------------*/
+#footer {
+  background: darken($secondary, 46);
+  padding: 0 0 30px 0;
+  color: $white;
+  font-size: 14px;
+
+
+  .footer-top {
+    padding: 60px 0 30px 0;
+
+    .footer-info {
+      margin-bottom: 15px;
+      background: darken($secondary, 48);
+      color: $white;
+      border-top: 4px solid $primary;
+      text-align: center;
+      padding: 30px 20px;
+
+      h3 {
+        font-size: 24px;
+        margin: 0 0 20px 0;
+        padding: 2px 0 2px 0;
+        line-height: 1;
+        font-weight: 700;
+      }
+
+      p {
+        font-size: 14px;
+        line-height: 24px;
+        margin-bottom: 0;
+        font-family: $font-primary;
+      }
+    }
+
+    .social-links {
+      a {
+        font-size: 18px;
+        display: inline-block;
+        color: $white;
+        line-height: 1;
+        padding: 8px 0;
+        margin-right: 4px;
+        border-radius: 50%;
+        text-align: center;
+        width: 36px;
+        height: 36px;
+        transition: 0.3s;
+        &:hover {
+          background: $primary;
+          color: #fff;
+          text-decoration: none;
+        }
+      }
+    }
+
+    h4 {
+      font-size: 16px;
+      font-weight: 600;
+      color: #fff;
+      position: relative;
+      padding-bottom: 12px;
+    }
+
+    .footer-links {
+      margin-bottom: 30px;
+      ul{
+        list-style: none;
+        padding: 0;
+        margin: 0;
+
+        i {
+          padding-right: 2px;
+          color: lighten($primary, 20);
+          font-size: 18px;
+          line-height: 1;
+        }
+
+        li {
+          padding: 10px 0;
+          &:first-child {
+            padding-top: 0;
+          }
+          display: flex;
+          align-items: center;
+        }
+
+        a {
+          color: $white;
+          transition: 0.3s;
+          display: inline-block;
+          line-height: 1;
+          &:hover {
+            color: lighten($primary, 15);
+          }
+        }
+      }
+    }
+
+    .footer-newsletter {
+  
+      form {
+        margin-top: 30px;
+        background: #fff;
+        padding: 6px 10px 6px 15px;
+        position: relative;
+        border-radius: 50px;
+  
+        input[type="email"] {
+          border: 0;
+          padding: 4px;
+          width: calc(100% - 110px);
+        }
+        input[type="submit"] {
+          position: absolute;
+          top: 0;
+          right: -2px;
+          bottom: 0;
+          border: 0;
+          background: none;
+          font-size: 16px;
+          padding: 0 20px;
+          background: $primary;
+          color: $white;
+          transition: 0.3s;
+          border-radius: 50px;
+          &:hover {
+            background: darken($primary, 10%);
+          }
+        }
+      }
+    }
+
+  }
+
+  .copyright {
+    border-top: 1px solid darken($secondary, 38);
+    text-align: left;
+    padding-top: 30px;
+  }
+
+  .credits {
+    padding-top: 10px;
+    text-align: center;
+    font-size: 13px;
+    color: $white;
+  }
+
+  @media (max-width: 575px) {
+    .footer-top .footer-info {
+      margin: -20px 0 30px 0;
+    }
+  }
+}
