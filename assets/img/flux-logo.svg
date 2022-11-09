@@ -1,0 +1,15 @@
+<svg id="Flux_white-blue" xmlns="http://www.w3.org/2000/svg" width="98.9" height="30.714" viewBox="0 0 98.9 30.714">
+  <path id="Path_81" data-name="Path 81" d="M15.46,0A15.357,15.357,0,1,1,0,15.357,15.409,15.409,0,0,1,15.46,0Z" transform="translate(0 0)" fill="#2b61d1"/>
+  <g id="Group_179" data-name="Group 179" transform="translate(7.011 5.615)">
+    <path id="Path_73" data-name="Path 73" d="M89.574,168.764l-1.761,1.017L84.03,167.6l1.718-.992.043-.025.066.038Z" transform="translate(-79.293 -150.105)" fill="#fff"/>
+    <path id="Path_74" data-name="Path 74" d="M63.541,40.979v2.047l-3.724-2.15-1.01-.583-1.01.583L53.064,43.61l-1.01.583V45.4l-1.821-1.051-1.01-.583-1.01.583-1.713.988V40.979l8.52-4.919Z" transform="translate(-46.5 -36.06)" fill="#fff"/>
+    <path id="Path_75" data-name="Path 75" d="M115.967,90.8V96.27L111.234,99l-.006,0L106.5,96.27V90.8l4.734-2.734Z" transform="translate(-98.926 -81.505)" fill="#fff"/>
+    <path id="Path_76" data-name="Path 76" d="M51.945,117.141v3.143l-2.723,1.573L46.5,120.285v-3.143l2.723-1.572Z" transform="translate(-46.5 -105.534)" fill="#fff"/>
+  </g>
+  <g id="Group_178" data-name="Group 178" transform="translate(38.035 5.615)">
+    <path id="Path_77" data-name="Path 77" d="M278.638,49.4v5.272h9.636v3.7h-9.636v7.268H273.82V45.69h15.732V49.4Z" transform="translate(-273.82 -45.69)" fill="#36395a"/>
+    <path id="Path_78" data-name="Path 78" d="M393.41,45.69h4.638V65.638H393.41Z" transform="translate(-375.567 -45.69)" fill="#36395a"/>
+    <path id="Path_79" data-name="Path 79" d="M466.358,76.54v16h-4.4V90.637a6.473,6.473,0,0,1-4.966,2.141c-4.015,0-6.841-2.26-6.841-7.2V76.54h4.64V84.9c0,2.677,1.189,3.867,3.241,3.867,2.141,0,3.687-1.368,3.687-4.314V76.54Z" transform="translate(-424.142 -72.594)" fill="#36395a"/>
+    <path id="Path_80" data-name="Path 80" d="M580.784,92.542l-3.509-4.909-3.623,4.909H568.59l6.155-8.062L568.8,76.54H574l3.4,4.67,3.48-4.67h4.937l-5.949,7.821,6.18,8.181Z" transform="translate(-525.182 -72.594)" fill="#36395a"/>
+  </g>
+</svg>
